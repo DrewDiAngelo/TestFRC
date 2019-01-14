@@ -26,6 +26,12 @@ public class Robot extends TimedRobot {
   private final Joystick m_stick = new Joystick(0);
   private final Timer m_timer = new Timer();
 
+/**Every Villian is Lemons*/
+
+/**Note to self, make more meaningful Comments */
+
+/*Not a good start*/
+
   /**
    * This function is run when the robot is first started up and should be
    * used for any initialization code.
